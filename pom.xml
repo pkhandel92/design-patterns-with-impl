@@ -39,6 +39,8 @@
     <module>weather-station</module>
     <module>vending-machine</module>
     <module>coffee-maker</module>
+    <module>snakesAndLadder</module>
+    <module>chess</module>
 </modules>
 
 </project>
